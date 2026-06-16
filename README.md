@@ -67,24 +67,27 @@ Most modern CurseForge links will work correctly after redirect, but some legacy
 1. Install **Tampermonkey**:
    [https://www.tampermonkey.net/](https://www.tampermonkey.net/)
 
-2. Install via script repository (if published):
+2. Install via script repositories:
 
-   * Greasy Fork
-   * OpenUserJS
+* Greasy Fork:
+  [https://greasyfork.org/en/scripts/582973-curseforge-legacy-www-redirect](https://greasyfork.org/en/scripts/582973-curseforge-legacy-www-redirect)
+
+* OpenUserJS:
+  [https://openuserjs.org/scripts/Zappingsbrew/CurseForge_Legacy_%E2%86%92_WWW_Redirect](https://openuserjs.org/scripts/Zappingsbrew/CurseForge_Legacy_%E2%86%92_WWW_Redirect)
 
 3. Or install manually:
 
-   * Copy the script from this repository
-   * Paste into a new Tampermonkey script
-   * Save and enable
+* Copy the script from this repository
+* Paste into a new Tampermonkey script
+* Save and enable
 
 ---
 
 ## 🔗 Links
 
 * GitHub: [https://github.com/zappingsbrew/curseforge-www-redirect](https://github.com/zappingsbrew/curseforge-www-redirect)
-* Greasy Fork: [https://greasyfork.org/](https://greasyfork.org/)
-* OpenUserJS: [https://openuserjs.org/](https://openuserjs.org/)
+* Greasy Fork: [https://greasyfork.org/en/scripts/582973-curseforge-legacy-www-redirect](https://greasyfork.org/en/scripts/582973-curseforge-legacy-www-redirect)
+* OpenUserJS: [https://openuserjs.org/scripts/Zappingsbrew/CurseForge_Legacy_%E2%86%92_WWW_Redirect](https://openuserjs.org/scripts/Zappingsbrew/CurseForge_Legacy_%E2%86%92_WWW_Redirect)
 
 ---
 
