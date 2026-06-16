@@ -5,7 +5,7 @@
 // @description  Redirect all CurseForge subdomains to www.curseforge.com (pure wildcard)
 // @author       Zappingsbrew & ChatGPT
 // @match        https://*.curseforge.com/*
-// @icon         https://www.curseforge.com/favicon.ico
+// @icon         https://www.google.com/s2/favicons?sz=128&domain=curseforge.com
 // @updateURL    https://github.com/zappingsbrew/curseforge-www-redirect/releases/latest/download/curseforge-www-redirect.user.js
 // @downloadURL  https://github.com/zappingsbrew/curseforge-www-redirect/releases/latest/download/curseforge-www-redirect.user.js
 // @grant        none
