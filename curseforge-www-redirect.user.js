@@ -5,7 +5,7 @@
 // @description  Redirect all CurseForge subdomains to www.curseforge.com (pure wildcard)
 // @author       Zappingsbrew & ChatGPT
 // @match        https://*.curseforge.com/*
-// @icon         https://www.google.com/s2/favicons?sz=128&domain=curseforge.com
+// @icon         data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGMAAQAABQABDQottAAAAABJRU5ErkJggg==
 // @updateURL    https://github.com/zappingsbrew/curseforge-www-redirect/releases/latest/download/curseforge-www-redirect.user.js
 // @downloadURL  https://github.com/zappingsbrew/curseforge-www-redirect/releases/latest/download/curseforge-www-redirect.user.js
 // @grant        none
