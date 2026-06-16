@@ -88,15 +88,6 @@ Most modern CurseForge links will work correctly after redirect, but some legacy
 
 ---
 
-## 🎨 Assets
-
-The favicon used in this userscript is sourced from CurseForge and is used solely for cosmetic identification in userscript managers (e.g. Tampermonkey icons). It does not affect functionality.
-
-Favicon source:
-[https://www.curseforge.com/favicon.ico](https://www.curseforge.com/favicon.ico)
-
----
-
 ## 🤖 Transparency & Credits
 
 * **Userscript logic:** ChatGPT (GPT-5)
